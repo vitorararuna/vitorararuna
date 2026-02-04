@@ -1,8 +1,6 @@
 ### Hello there, I'm Vitor Araruna! 👽
 
 ---
-<br />
-
 ```js
 export const Vitor = {
   age: 25,
